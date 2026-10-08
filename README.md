@@ -5,7 +5,8 @@
 
 #### 2° Semestre
 - [Algoritmos e Pensamento Computacional](https://github.com/Nathan-GN-Santos/Projeto--Materia-Algoritmo-Computacional) -
-- [Design Profisional - Resumo Acadêmico](https://github.com/Nathan-GN-Santos/Projeto-Resumo-Academico) - 
+- [Design Profissional - Resumo Acadêmico](https://github.com/Nathan-GN-Santos/Projeto-Resumo-Academico) -
+- [Design Profissional - README do Spotify](https://github.com/danielareses0806/README-DO-SPOTIFY) - Exercício de criação de um README profissional.
 - [Front-End para Web - Site Pessoal](https://github.com/Nathan-GN-Santos/Site-Pessoal-Portfolio) -
 - [Front-End para Web - Site Exercício](https://github.com/Nathan-GN-Santos/Projeto-Guia) -
 - [Modelagem de Banco de Dados - Clínica Veterinária](https://github.com/Nathan-GN-Santos/Projeto-Banco-de-Dados) -
