@@ -17,6 +17,7 @@
 - [Programação de Computadores](https://github.com/ericlesgabriel200408-cmd/Gerenciador-de-Tarefas) - 
 
 ### 💻 Projetos Pessoais 
+   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 - [Kotlin - Primeira Experiência](https://github.com/Nathan-GN-Santos/Hello-Androi-World) -
 - [Kotlin - Primeiro Mini-Projeto](https://github.com/Nathan-GN-Santos/Stufe-1-Nathans-DevCard) -
 - [Kotlin - Projeto](https://github.com/Nathan-GN-Santos/Stufe-2-to-10-Ethan-mein-Personlicher-Assistent) -
