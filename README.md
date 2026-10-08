@@ -1,4 +1,13 @@
-## Hi there 👋
+### 🎓 Projetos Acadêmicos (Análise e Desenvolvimento de Sistemas)
+
+#### 1° Semestre
+- [Engenharia de Prompts - Agente de Vagas](https://github.com/Nathan-GN-Santos/Agente-de-Vagas) - Projeto de Automação e Criação de Agente de IA
+
+#### 2° Semestre
+- [Design Profisional - Resumo Acadêmico](https://github.com/Nathan-GN-Santos/Projeto-Resumo-Acad-mico) - 
+- [Front-End para Web - Site Pessoal](https://github.com/Nathan-GN-Santos/Site-Pessoal-Portfolio) -
+
+
 
 <!--
 **Nathan-GN-Santos/Nathan-GN-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
