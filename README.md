@@ -13,8 +13,8 @@
 
 #### 1° Semestre
 - [Engenharia de Prompts - Agente de Vagas](https://github.com/Nathan-GN-Santos/Agente-de-Vagas) - Projeto de Automação e Criação de Agente de IA
-- [Programação de Computadores](https://github.com/ericlesgabriel200408-cmd/Meu_Caixa) -
-- [Programação de Computadores](https://github.com/ericlesgabriel200408-cmd/Gerenciador-de-Tarefas) - 
+- [Programação de Computadores - Meu Caixa](https://github.com/ericlesgabriel200408-cmd/Meu_Caixa) -
+- [Programação de Computadores - Gerenciador de Tarefas](https://github.com/ericlesgabriel200408-cmd/Gerenciador-de-Tarefas) - 
 
 ### 💻 Projetos Pessoais 
    ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
